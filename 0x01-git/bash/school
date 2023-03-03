@@ -1,2 +1,6 @@
 echo School
+<<<<<<< HEAD
 echo "ALX school is so cool!"
+=======
+echo "The school is open!"
+>>>>>>> origin/update_script
